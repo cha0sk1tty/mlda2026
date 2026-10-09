@@ -1,0 +1,12 @@
+git fetch upstream
+git merge upstream/main
+git push origin main
+
+забрать новые данные
+
+
+git add .
+git commit -m "My changes"
+git push origin main
+
+внести изменения
